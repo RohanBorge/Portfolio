@@ -1,0 +1,19 @@
+1) font awesome cdn 
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css
+
+2) google fonts 
+#poopins medium 500
+import 
+copy import link 
+and paste in style.css
+
+3) font
+#remmt font 
+ regullar
+ import
+ copy import link
+ ani  paste in .css
+
+ 4) hamburger icon 
+ font awesome 
+ hamberger 
